@@ -1,0 +1,14 @@
+TId,TDate,TType,Amount,Name,Address,Contact,Email
+200,2005-01-01,Debit,100,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
+201,2005-02-01,Credit,50,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
+202,2005-03-01,Credit,100,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
+203,2005-04-01,Credit,110,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
+204,2005-05-01,Debit,500,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
+205,2005-06-01,Debit,100,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
+206,2005-07-01,Credit,150,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
+207,2005-08-01,Credit,1050,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
+208,2005-08-01,Debit,2050,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
+209,2005-10-01,Credit,50,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
+210,2005-11-01,Credit,550,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
+211,2005-12-01,Debit,550,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
+212,2023-03-01,Credit,500,Radhika Merchant,123 Sethi nagar,1111111111,radhikamerchant@gmail.com
